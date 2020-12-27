@@ -6,7 +6,7 @@
   <link href="http://digitalbottle.github.io/atom.xml" rel="self"/>
   
   <link href="http://digitalbottle.github.io/"/>
-  <updated>2020-12-27T20:34:47.357Z</updated>
+  <updated>2020-12-27T20:36:56.522Z</updated>
   <id>http://digitalbottle.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Welcome to my blog</title>
+    <title>2nd blog</title>
     <link href="http://digitalbottle.github.io/2020/12/28/2/"/>
     <id>http://digitalbottle.github.io/2020/12/28/2/</id>
     <published>2020-12-27T20:33:56.209Z</published>
-    <updated>2020-12-27T20:34:47.357Z</updated>
+    <updated>2020-12-27T20:36:56.522Z</updated>
     
     <content type="html"><![CDATA[<p>2nd blog，测试</p>]]></content>
     
@@ -42,7 +42,7 @@
     <link href="http://digitalbottle.github.io/2020/12/28/1/"/>
     <id>http://digitalbottle.github.io/2020/12/28/1/</id>
     <published>2020-12-27T17:23:12.903Z</published>
-    <updated>2020-12-27T19:14:26.883Z</updated>
+    <updated>2020-12-27T21:08:03.408Z</updated>
     
     <content type="html"><![CDATA[<p>This is my very first post. This blog is modified from Hexo: pure. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="mathjax-supported"><a class="markdownIt-Anchor" href="#mathjax-supported"></a> Mathjax supported</h2><p><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi><mo>+</mo><mi>y</mi><mo>≥</mo><mi>z</mi></mrow><annotation encoding="application/x-tex">x+y\geq z</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height:0.63597em;"></span><span class="strut bottom" style="height:0.8304100000000001em;vertical-align:-0.19444em;"></span><span class="base textstyle uncramped"><span class="mord mathit">x</span><span class="mbin">+</span><span class="mord mathit" style="margin-right:0.03588em;">y</span><span class="mrel">≥</span><span class="mord mathit" style="margin-right:0.04398em;">z</span></span></span></span></p><h2 id="create-a-new-post"><a class="markdownIt-Anchor" href="#create-a-new-post"></a> Create a new post</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h2 id="run-server"><a class="markdownIt-Anchor" href="#run-server"></a> Run server</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h2 id="generate-static-files"><a class="markdownIt-Anchor" href="#generate-static-files"></a> Generate static files</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h2 id="deploy-to-remote-sites"><a class="markdownIt-Anchor" href="#deploy-to-remote-sites"></a> Deploy to remote sites</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
