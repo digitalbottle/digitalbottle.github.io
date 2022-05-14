@@ -6,7 +6,7 @@ menu:
   Tags: tags # 标签
   # Repository: repository # github repositories
   # Books: books # 豆瓣书单
-  # Links: links # 友链
+  Links: links # 友链
   About: about # 关于
 
 # Enable/Disable menu icons
@@ -18,7 +18,7 @@ menu_icons:
   tags: icon-tags
   # repository: icon-project
   # books: icon-book-fill
-  # links: icon-friendship
+  links: icon-friendship
   about: icon-cup-fill
 
 # rss
@@ -106,14 +106,14 @@ share:
   mobile_sites: weibo,qq,qzone # 移动端显示的分享图标
 
 # Github
-# github:
-#   username: cofess  # github username
+github:
+  username: digitalbottle  # github username
 
 # Repository Info (This will override 'github' option)
 # 项目仓库信息（将会覆盖 github 项）
 repository:
   platform: github # 托管平台（github | gitee）
-  username: cofess # 用户名
+  username: digitalbottle # 用户名
 
 # Comment
 # Gitment
@@ -140,6 +140,7 @@ comment:
     ClientSecret: 5703d65ae3bd31bbd11829b371a71159fbaab560 #必须. GitHub Application Client Secret.
     enableHotKey: true
     language: zh-CN
+    proxy: https://shielded-brushlands-08810.herokuapp.com/https://github.com/login/oauth/access_token
 
   valine: # Valine. https://valine.js.org
     appid: # your leancloud application appid
@@ -203,11 +204,11 @@ profile:
   articleSelfBlock: false # 关闭文章下方的自我介绍
   avatar: images/avatar.jpg
   gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
-  author: 不秃头的攻城狮
+  author: 不秃的攻城狮
   author_title: Researcher & Nerd
   author_description: Nerd, often curious, always sleepy, and forever lazy.
   location: Shenzhen, China
-  follow: https://github.com/cofess
+  follow: https://github.com/digitalbottle
   # Social Links
   social:
     links:

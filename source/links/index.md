@@ -1,5 +1,5 @@
 ---
-title: 分类
+title: 友链
 layout: links
-comments: false
+comments: true
 ---
