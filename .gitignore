@@ -7,4 +7,4 @@ public/
 .deploy*/
 
 # keep md file locally but not in the repo
-source/
+source/_posts/*.md
