@@ -139,3 +139,6 @@ neat_js:
   compress:
   exclude:
     - "*.min.js"
+
+encrypt:
+  enable:true
