@@ -5,3 +5,6 @@ db.json
 node_modules/
 public/
 .deploy*/
+
+# keep md file locally but not in the repo
+source/
