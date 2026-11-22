@@ -140,7 +140,6 @@ comment:
     ClientSecret: 5703d65ae3bd31bbd11829b371a71159fbaab560 #必须. GitHub Application Client Secret.
     enableHotKey: true
     language: zh-CN
-    proxy: https://shielded-brushlands-08810.herokuapp.com/https://github.com/login/oauth/access_token
 
   valine: # Valine. https://valine.js.org
     appid: # your leancloud application appid
@@ -173,17 +172,17 @@ douban:
 # PV
 pv:
   busuanzi:
-    enable: true # 不蒜子统计
+    enable: false  # 不蒜子统计
   leancloud:
-    enable: false # leancloud统计
+    enable: false  # leancloud统计
     app_id: # leancloud <AppID>
     app_key: # leancloud <AppKey>
 
 # wordcount
 postCount:
-  enable: true
-  wordcount: true # 文章字数统计
-  min2read: true # 阅读时长预计
+  enable: false
+  wordcount: true  # 文章字数统计
+  min2read: true  # 阅读时长预计
 
 # Plugins
 plugins:
@@ -235,15 +234,14 @@ profile:
     Gitee: https://gitee.com/digitalbottle
   # My Personal Labels
   labels:
-    - 算法工程
-    - 深度学习
-    - 前端
-    - 后端
+    - 算法
+    - 流媒体
+
   # My Personal Works
   works:
-    example_work:
-      link: http://www.example.com
-      date: 2016
+    video-crypto:
+      link: https://github.com/digitalbottle/video-crypto
+      date: 2026
   # My Personal Projects
   projects:
-    example_proj: https://github.com/digitalbottle
+    digitalbottle/video-crypto: https://github.com/digitalbottle/video-crypto
